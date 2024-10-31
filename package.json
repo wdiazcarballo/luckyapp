@@ -1,0 +1,15 @@
+{
+  "name": "luckyapp",
+  "version": "1.0.0",
+  "description": "A toy web-app project demonstrating how to create a simple 3D app on mobile phone.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.169.0"
+  }
+}
